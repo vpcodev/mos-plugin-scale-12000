@@ -1,0 +1,12 @@
+{
+  "name": "scale-data-platform-6788",
+  "description": "Applies data governance, lineage awareness, and cost signals to shared platform work. Plugin 6788 centers the workflow around a reliable, repeatable operational habit.",
+  "version": "1.0.0",
+  "type": "plugin",
+  "skills": [
+    {
+      "name": "data-platform-playbook-3",
+      "path": "skills/data-platform-playbook-3/SKILL.md"
+    }
+  ]
+}

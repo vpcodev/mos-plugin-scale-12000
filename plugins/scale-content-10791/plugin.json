@@ -1,0 +1,12 @@
+{
+  "name": "scale-content-10791",
+  "description": "Improves editorial consistency, change review, and source-quality checks for large content sets. Plugin 10791 centers the workflow around a reliable, repeatable operational habit.",
+  "version": "1.0.0",
+  "type": "plugin",
+  "skills": [
+    {
+      "name": "content-playbook-2",
+      "path": "skills/content-playbook-2/SKILL.md"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "scale-ui-8525",
+  "description": "Provides design-system consistency checks and interface review patterns for product workflows. Plugin 8525 centers the workflow around a reliable, repeatable operational habit.",
+  "version": "1.0.0",
+  "type": "plugin",
+  "skills": [
+    {
+      "name": "ui-playbook-11",
+      "path": "skills/ui-playbook-11/SKILL.md"
+    }
+  ]
+}

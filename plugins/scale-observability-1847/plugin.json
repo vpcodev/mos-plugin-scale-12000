@@ -1,0 +1,12 @@
+{
+  "name": "scale-observability-1847",
+  "description": "Connects runtime signals, dashboards, and alert quality checks into a single operational loop. Plugin 1847 centers the workflow around a reliable, repeatable operational habit.",
+  "version": "1.0.0",
+  "type": "plugin",
+  "skills": [
+    {
+      "name": "observability-playbook-2",
+      "path": "skills/observability-playbook-2/SKILL.md"
+    }
+  ]
+}

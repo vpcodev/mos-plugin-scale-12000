@@ -1,0 +1,12 @@
+{
+  "name": "scale-workflow-9652",
+  "description": "Maps team rituals into repeatable execution patterns, handoff steps, and decision checkpoints. Plugin 9652 centers the workflow around a reliable, repeatable operational habit.",
+  "version": "1.0.0",
+  "type": "plugin",
+  "skills": [
+    {
+      "name": "workflow-playbook-7",
+      "path": "skills/workflow-playbook-7/SKILL.md"
+    }
+  ]
+}
